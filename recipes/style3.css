@@ -1,0 +1,14 @@
+.head{
+    background-color: pink;
+    padding:10px;
+    border: 10px solid red;
+
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    width: 800px;
+    height: 700px;
+    margin-left:600px;
+}

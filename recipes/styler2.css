@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+.head.cont{
+    margin-right:1200px;   
+   
+   }
+.head{
+    background-color: blanchedalmond;
+    padding:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:32px;
+    font-weight:bold;
+}
+.cont{
+    background-color: brown;
+    padding:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:22px;
+
+}
+img{
+    width:400px;
+    height:auto;
+    margin-left:200px;
+}
+
